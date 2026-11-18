@@ -1,0 +1,9 @@
+{
+  "name": "INGE EFUS",
+  "short_name": "INGE EFUS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": []
+}
